@@ -9,4 +9,4 @@ analysis and visualization.
 Designed and implemented a SQL database schema for efficient
 storage and retrieval of repository data.
 Impact: Empowered stakeholders with insights into trending
-repositories and technology adoption trends, aiding decisionmaking in software development.
+repositories and technology adoption trends, aiding decision making in software development.
